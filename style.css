@@ -1,0 +1,96 @@
+body {
+  margin: auto;
+  padding: auto;
+  background-color: rgb(244, 239, 233);
+  box-sizing: border-box;
+}
+
+.imagepadding {
+  padding: 25px; /* Adds padding to the image */
+  display: block;
+}
+
+.heading {
+  background: linear-gradient(to right, #95c5c9, #ffde59, #ff914d, #ff5e78);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+button {
+  display: block;
+}
+.btn_section {
+  /* display: block;
+  margin-left: auto;
+  margin-right: auto; */
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.imagepadding2 {
+  border-radius: 25px;
+  display: block;
+  margin-left: auto; /* Centers the element horizontally */
+  margin-right: auto; /* Centers the element horizontally */
+  margin-top: auto; /* Vertically centers the element */
+  margin-bottom: auto; /* Vertically centers the element */
+}
+.container {
+  max-width: 600px;
+}
+
+.col-12.d-flex.align-items-center {
+  padding-bottom: 25px;
+}
+.sect2 {
+  padding-top: 20px;
+}
+.card {
+  width: 200px;
+  font-family: "Arial", sans-serif;
+}
+.content {
+  border-radius: 30px;
+  background-color: white;
+  margin-top: 20px;
+}
+.content p {
+  text-align: center;
+}
+.co-12.data {
+  text-align: center;
+}
+
+.checked {
+  color: orange;
+}
+.btn {
+  border-color: red;
+  border-radius: 12px;
+  background-color: yellow;
+}
+footer {
+  padding-top: 20px;
+
+  padding-bottom: 20px;
+  background-color: rgb(16, 147, 228);
+}
+.star_section {
+  padding-bottom: 20px;
+}
+.member_section {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.membere {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  background-color: aliceblue;
+}
+
+.header {
+  background-color: aliceblue;
+}
+.first_Section {
+  background-color: aliceblue;
+}
